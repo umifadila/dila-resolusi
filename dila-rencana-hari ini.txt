@@ -1,6 +1,8 @@
 RENCANA DILA HARI INI
 
 -makan
+*ES6
+*framework javascript
 -nyapu
 -ngepel
 -belajar
