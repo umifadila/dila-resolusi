@@ -1,10 +1,13 @@
 RENCANA DILA HARI INI
 
 -makan
-*ES6
-*framework javascript
-  ^ mandi
-  ^ makan
+  *ES6
+  *framework javascript
+    ^ view
+    ^ makan
+-mandi
 -nyapu
+  *lantai bawah
 -ngepel
 -belajar
+-pasang gorden
