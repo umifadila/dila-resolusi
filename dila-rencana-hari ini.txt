@@ -3,7 +3,8 @@ RENCANA DILA HARI INI
 -makan
 *ES6
 *framework javascript
--mandi
+  ^ mandi
+  ^ makan
 -nyapu
 -ngepel
 -belajar
