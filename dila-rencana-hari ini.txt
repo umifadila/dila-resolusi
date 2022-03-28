@@ -4,6 +4,7 @@ RENCANA DILA HARI INI
   *ES6
   *framework javascript
     ^ view
+    ^ makan
 -mandi
 -nyapu
   *lantai bawah
